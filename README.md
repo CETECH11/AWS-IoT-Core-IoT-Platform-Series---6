@@ -1,0 +1,1 @@
+# AWS-IoT-Core-IoT-Platform-Series---6
